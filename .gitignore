@@ -5,3 +5,8 @@ gradlew
 .packages
 .flutter-plugins
 .idea/
+.vscode/
+build/
+ios/Pods/
+ios/.symlinks
+ios/Flutter
