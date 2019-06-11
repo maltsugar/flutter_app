@@ -9,4 +9,4 @@ gradlew
 build/
 ios/Pods/
 ios/.symlinks
-ios/Flutter
+ios/Flutter/
